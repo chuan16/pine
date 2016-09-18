@@ -1,0 +1,15 @@
+Nordic NRF8001 BLE
+Cylabs EFM32 Gecko processor
+Windbond 25032 SPI flash
+LIS3DH triple-axis accelerometer
+
+
+nRF51822-QFN48  7.8一件  https://item.taobao.com/item.htm?spm=a230r.1.14.20.XsqiQe&id=526516106428&ns=1&abbucket=9#detail
+DA14580  QFN40，WLCSP  7.5一件（11.4）
+DA14583  带Flash的DA14580版本
+LIS3DH        1.67一件  同一家
+MX25L3206EM2I-12G SOP8  1.18一件
+MX25L6406EMI-12G  SOP16 2.2一件
+W25Q32FVSIG 0.95一件，已售2545
+1027振动马达  0.85一件
+锂电池032030 140mAh 13.8元一件 （小米手环2配70mah电池）纽扣电池LIR2032 可充电，3.6V， 40+-2mAh
