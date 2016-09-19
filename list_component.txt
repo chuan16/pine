@@ -4,18 +4,22 @@ Windbond 25032 SPI flash
 LIS3DH triple-axis accelerometer
 
 
-nRF51822-QFN48  7.8ä¸€ä»¶  https://item.taobao.com/item.htm?spm=a230r.1.14.20.XsqiQe&id=526516106428&ns=1&abbucket=9#detail
-DA14580  QFN40ï¼ŒWLCSP  7.5ä¸€ä»¶ï¼ˆ11.4ï¼‰
-DA14583  å¸¦Flashçš„DA14580ç‰ˆæœ¬
-LIS3DH        1.67ä¸€ä»¶  åŒä¸€å®¶
-MX25L3206EM2I-12G SOP8  1.18ä¸€ä»¶
-MX25L6406EMI-12G  SOP16 2.2ä¸€ä»¶
-W25Q32FVSIG 0.95ä¸€ä»¶ï¼Œå·²å”®2545
-1027æŒ¯åŠ¨é©¬è¾¾  0.85ä¸€ä»¶
-é”‚ç”µæ± 032030 140mAh 13.8å…ƒä¸€ä»¶ ï¼ˆå°ç±³æ‰‹ç¯2é…70mahç”µæ± ï¼‰çº½æ‰£ç”µæ± LIR2032 å¯å……ç”µï¼Œ3.6Vï¼Œ 40+-2mAh
+nRF51822-QFN48  7.8Ò»¼ş  https://item.taobao.com/item.htm?spm=a230r.1.14.20.XsqiQe&id=526516106428&ns=1&abbucket=9#detail
+DA14580  QFN40£¬WLCSP  7.5Ò»¼ş£¨11.4£© £¨BLE+MCU£©
+DA14583  ´øFlashµÄDA14580°æ±¾
+LIS3DH        1.67Ò»¼ş  Í¬Ò»¼Ò
+MX25L3206EM2I-12G SOP8  1.18Ò»¼ş
+MX25L6406EMI-12G  SOP16 2.2Ò»¼ş
+W25Q32FVSIG 0.95Ò»¼ş£¬ÒÑÊÛ2545
+1027Õñ¶¯Âí´ï  0.85Ò»¼ş
+ï®µç³Ø032030 140mAh 13.8ÔªÒ»¼ş £¨Ğ¡Ã×ÊÖ»·2Åä70mahµç³Ø£©Å¦¿Ûµç³ØLIR2032 ¿É³äµç£¬3.6V£¬ 40+-2mAh
 
 
+Ìá¹©²»´øÀ¶ÑÀ°æ±¾»¹ÊÇĞèÒªMCU
+ÓÃ²»´øÀ¶ÑÀ°æ±¾ÏÈ³ödemo
 
-https://support.dialog-semiconductor.com/
-Pine_damon
-liuchuan89@gmail.com
+·ÅÖÃ·½Ê½ÔÙ¿´£¬¼Ğ´ø·½Ê½»áÓĞT-shirtµÄÎÊÌâ
+
+0920 ToDO:
+1. raw data analysis: setup point:9000, offset more than  1000 with 1 minute, give out alarm signal;
+2. raw data write/read to/from SPI serial flash test
