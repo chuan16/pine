@@ -4,3 +4,7 @@
 3. 外形可考虑方形shuffle
 4. 电池考虑纽扣（可充电）
 5. 外形防水
+
+
+蓝牙 DA14580 可以在DA网站看SDK   https://support.dialog-semiconductor.com/
+用户名 Pine_damon
