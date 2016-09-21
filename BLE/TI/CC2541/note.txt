@@ -1,0 +1,1 @@
+https://git.ti.com/sensortag-20-android  这是TI提供的sensor的android app源码
