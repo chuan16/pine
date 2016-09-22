@@ -1,1 +1,4 @@
 https://git.ti.com/sensortag-20-android  这是TI提供的sensor的android app源码
+
+[0922] 
+http://www.smslit.top/ble/2015/11/07/bleSoftwareDevelopmentGuide-BLE.html  TI document翻译blog
