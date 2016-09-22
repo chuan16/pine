@@ -2,3 +2,4 @@ https://git.ti.com/sensortag-20-android  这是TI提供的sensor的android app�
 
 [0922] 
 http://www.smslit.top/ble/2015/11/07/bleSoftwareDevelopmentGuide-BLE.html  TI document翻译blog
+AT24C128C-SSHM-T 24C128 EEPROM 128KB SOP8 8位微控制器  --  2541只有I2C，所以只有用EEPROM，不能用Flash
