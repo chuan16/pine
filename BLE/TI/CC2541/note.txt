@@ -3,3 +3,11 @@ https://git.ti.com/sensortag-20-android  这是TI提供的sensor的android app�
 [0922] 
 http://www.smslit.top/ble/2015/11/07/bleSoftwareDevelopmentGuide-BLE.html  TI document翻译blog
 AT24C128C-SSHM-T 24C128 EEPROM 128KB SOP8 8位微控制器  --  2541只有I2C，所以只有用EEPROM，不能用Flash
+[0923]
+2541 SPI和UART共用，可配为各自mode，因此有SPI可用于接Serial flash，sensor tag上所有sensor都是挂在I2C上的
+
+关于android的问题：
+http://stackoverflow.com/questions/19763777/how-to-send-the-text-data-to-cc2541-keyfob-via-android-4-3
+
+sensor tag的拆解
+http://makezine.com/2013/04/18/teardown-of-the-ti-sensortag/
