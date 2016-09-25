@@ -14,3 +14,8 @@ http://makezine.com/2013/04/18/teardown-of-the-ti-sensortag/
 
 [0925]
 devInfoPnpId structure中有定义蓝牙的Vendor ID，目前还是使用的TI特有的ID 0x000d，后续需要修改。
+
+Accelerometerservice.c:
+// Characteristic Value: period
+static uint8 sensorPeriod = SENSOR_MIN_UPDATE_PERIOD / SENSOR_PERIOD_RESOLUTION; （100/10）
+需要再次确认是否是采样周期
