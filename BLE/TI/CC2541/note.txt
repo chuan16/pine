@@ -11,3 +11,6 @@ http://stackoverflow.com/questions/19763777/how-to-send-the-text-data-to-cc2541-
 
 sensor tag的拆解
 http://makezine.com/2013/04/18/teardown-of-the-ti-sensortag/
+
+[0925]
+devInfoPnpId structure中有定义蓝牙的Vendor ID，目前还是使用的TI特有的ID 0x000d，后续需要修改。
