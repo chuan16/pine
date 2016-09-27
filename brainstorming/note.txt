@@ -11,3 +11,6 @@
 
 [0923]
 APP端服务区架设问题
+
+[0927]
+可利用g-sensor的click和double-click来自定义行为，比如disable alarm和enable alarm，从而取消掉key的位置
