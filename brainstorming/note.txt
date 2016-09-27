@@ -14,3 +14,4 @@ APP端服务区架设问题
 
 [0927]
 可利用g-sensor的click和double-click来自定义行为，比如disable alarm和enable alarm，从而取消掉key的位置
+不过会有误判的情况，比如公交上来回急刹，可能会导致click和double-click的误判[需要再check]
