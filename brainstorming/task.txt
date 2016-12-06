@@ -1,0 +1,1 @@
+https://quantumdevices.wordpress.com/2010/06/29/understanding-incremental-encoder-signals/介绍使用XY来判断方向，Z完成计数
